@@ -17,18 +17,18 @@
         \"relation\": [\"delegate_permission/common.handle_all_urls\"],
         \"target\": {
             \"namespace\": \"web\",
-            \"site\": \"https://192.168.18.20\"
+            \"site\": \"https://to-do-list-ai-test.netlify.app\"
         }
     }]
     
   </string>
     <string name="fallbackType" translatable="false">customtabs</string>
-    <string name="fullScopeUrl" translatable="false">http://192.168.18.20:3000/</string>
+    <string name="fullScopeUrl" translatable="false">https://to-do-list-ai-test.netlify.app/</string>
     <string name="generatorApp" translatable="false">bubblewrap-cli</string>
-    <string name="hostName" translatable="false">192.168.18.20</string>
-    <string name="launchUrl" translatable="false">https://192.168.18.20/</string>
+    <string name="hostName" translatable="false">to-do-list-ai-test.netlify.app</string>
+    <string name="launchUrl" translatable="false">https://to-do-list-ai-test.netlify.app/</string>
     <string name="launcherName" translatable="false">To do list</string>
     <string name="orientation" translatable="false">default</string>
-    <string name="providerAuthority" translatable="false">com.leetpros.dayflow.fileprovider</string>
-    <string name="webManifestUrl" translatable="false">http://192.168.18.20:3000/manifest.webmanifest</string>
+    <string name="providerAuthority" translatable="false">leetpros.todolist.fileprovider</string>
+    <string name="webManifestUrl" translatable="false">https://to-do-list-ai-test.netlify.app/manifest.webmanifest</string>
 </resources>

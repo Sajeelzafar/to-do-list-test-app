@@ -4,7 +4,7 @@
     "type": "BUNDLE",
     "kind": "RegularFile"
   },
-  "applicationId": "com.leetpros.dayflow",
+  "applicationId": "leetpros.todolist",
   "variantName": "release",
   "elements": [
     {

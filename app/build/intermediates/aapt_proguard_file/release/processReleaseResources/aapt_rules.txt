@@ -6,9 +6,9 @@
 -keep class com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity { <init>(); }
 -keep class com.google.androidbrowserhelper.trusted.NotificationPermissionRequestActivity { <init>(); }
 -keep class com.google.androidbrowserhelper.trusted.WebViewFallbackActivity { <init>(); }
--keep class com.leetpros.dayflow.Application { <init>(); }
--keep class com.leetpros.dayflow.DelegationService { <init>(); }
--keep class com.leetpros.dayflow.LauncherActivity { <init>(); }
+-keep class leetpros.todolist.Application { <init>(); }
+-keep class leetpros.todolist.DelegationService { <init>(); }
+-keep class leetpros.todolist.LauncherActivity { <init>(); }
 -keep class android.widget.Space { <init>(android.content.Context, android.util.AttributeSet); }
 
 -keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(android.content.Context, android.util.AttributeSet); }

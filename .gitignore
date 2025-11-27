@@ -15,6 +15,10 @@ dist-ssr
 
 # Editor directories and files
 .vscode/*
+android/
+gradle/
+.gradle/
+build/
 
 !.vscode/extensions.json
 .idea
