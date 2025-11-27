@@ -6,7 +6,7 @@
   "display": "standalone",
   "themeColor": "#0D1117",
   "themeColorDark": "#0F1115",
-  "navigationColor": "#0F1115",
+  "navigationColor": "#000000",
   "navigationColorDark": "#000000",
   "navigationDividerColor": "#000000",
   "navigationDividerColorDark": "#000000",

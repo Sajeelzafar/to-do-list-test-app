@@ -1,0 +1,13 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "leetpros.todolist.com",
+        "sha256_cert_fingerprints": [
+          "55:64:B6:5C:43:B7:2A:BA:48:C2:B4:5E:72:F4:77:D8:22:1D:85:56:01:69:80:83:CC:73:F7:2D:3D:34:80:79"
+        ]
+      }
+    }
+  ]
+  
