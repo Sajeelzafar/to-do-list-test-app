@@ -18,8 +18,8 @@ export default defineConfig(({ mode }) => {
           name: "demo app",
           short_name: "To do list app",
           description: "App for registering to dos",
-          theme_color: "#0d1117",
-          background_color: "#ffffff",
+          theme_color: "#0F1115",
+          background_color: "#0F1115",
           display: "standalone",
           start_url: "/",
           icons: [

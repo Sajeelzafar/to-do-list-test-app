@@ -1,7 +1,0 @@
-{
-  "name": "Copy of DayFlow AI Planner",
-  "description": "A chat-first AI day planner featuring task management, timeline visualization, focus timer, and Eisenhower matrix prioritization.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}

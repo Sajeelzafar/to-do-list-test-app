@@ -34,7 +34,7 @@
         \"relation\": [\"delegate_permission/common.handle_all_urls\"],
         \"target\": {
             \"namespace\": \"web\",
-            \"site\": \"https://192.168.18.20\"
+            \"site\": \"https://to-do-list-ai-test.netlify.app\"
         }
     }]
     
